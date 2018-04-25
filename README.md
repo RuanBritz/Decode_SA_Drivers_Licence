@@ -55,36 +55,8 @@ Next two bytes are zero (00 00).
 
 Remaining 714 bytes form 6 blocks - 5 blocks of 128, 1 block of 74.
 
-Different depending on version and and block size.</p>
-<pre><code>Version 1, 128 bytes
------BEGIN RSA PUBLIC KEY-----
-MIGXAoGBAP7S4cJ+M2MxbncxenpSxUmBOVGGvkl0dgxyUY1j4FRKSNCIszLFsMNw
-x2XWXZg8H53gpCsxDMwHrncL0rYdak3M6sdXaJvcv2CEePrzEvYIfMSWw3Ys9cRl
-HK7No0mfrn7bfrQOPhjrMEFw6R7VsVaqzm9DLW7KbMNYUd6MZ49nAhEAu3l//ex/
-nkLJ1vebE3BZ2w==
------END RSA PUBLIC KEY-----
-
-Version 1, 74 bytes
------BEGIN RSA PUBLIC KEY-----
-MGACSwD/POxrX0Djw2YUUbn8+u866wbcIynA5vTczJJ5cmcWzhW74F7tLFcRvPj1
-tsj3J221xDv6owQNwBqxS5xNFvccDOXqlT8MdUxrFwIRANsFuoItmswz+rfY9Cf5
-zmU=
------END RSA PUBLIC KEY-----
-
-Version 2, 128 bytes
------BEGIN RSA PUBLIC KEY-----
-MIGWAoGBAMqfGO9sPz+kxaRh/qVKsZQGul7NdG1gonSS3KPXTjtcHTFfexA4MkGA
-mwKeu9XeTRFgMMxX99WmyaFvNzuxSlCFI/foCkx0TZCFZjpKFHLXryxWrkG1Bl9+
-+gKTvTJ4rWk1RvnxYhm3n/Rxo2NoJM/822Oo7YBZ5rmk8NuJU4HLAhAYcJLaZFTO
-sYU+aRX4RmoF
------END RSA PUBLIC KEY-----
-
-Version 2, 74 bytes
------BEGIN RSA PUBLIC KEY-----
-MF8CSwC0BKDfEdHKz/GhoEjU1XP5U6YsWD10klknVhpteh4rFAQlJq9wtVBUc5Dq
-bsdI0w/bga20kODDahmGtASy9fae9dobZj5ZUJEw5wIQMJz+2XGf4qXiDJu0R2U4
-Kw==
------END RSA PUBLIC KEY-----</code></pre>
+Different depending on version and block size.</p>
+<pre><code>Keys: https://pastebin.com/gb049dfx</code></pre>
 
 <h2>Barcode Data</h2>
 <article class="markdown-body entry-content" itemprop="text">
